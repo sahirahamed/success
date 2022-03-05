@@ -1,7 +1,7 @@
 .parent {
   height: 100vh;
   width: 100vw;
-  background-image: url("./images/river\ nature.jpg");
+  background-image: url("images/river\ nature.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -26,6 +26,7 @@
   height: 100px;
   width: 100px;
   border: 1px solid white;
+  box-shadow: 2px 2px 2px 2px grey;
   border-radius: 100px;
   margin: 20px;
   margin-top: 10px;
